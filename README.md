@@ -1,4 +1,3 @@
-# sumanth.github.io
 # lkmp-blog
 My expiernce with the Linux Kernel Bug Fixing [Summer 2025] Mentorship Program
 
