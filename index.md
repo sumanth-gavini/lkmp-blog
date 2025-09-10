@@ -4,8 +4,6 @@ date: 2025-09-10
 author: Sumanth Gavini
 ---
 
-# My Linux Kernel Mentorship Journey:
-
 ## Introduction  
 
 Being part of the **Linux Kernel Mentorship Program** has been one of the most rewarding experiences of my career. It gave me the opportunity to work directly with the upstream kernel, learn from experienced maintainers, and contribute real improvements that impact both new and stable kernel releases.  
