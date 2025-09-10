@@ -1,10 +1,10 @@
 ---
-title: "My Linux Kernel Mentorship Journey: From sysfs_emit Fixes to Driver Backports"
+title: "My Linux Kernel Mentorship Journey"
 date: 2025-09-10
-author: Your Name
+author: Sumanth Gavini
 ---
 
-# My Linux Kernel Mentorship Journey: From sysfs_emit Fixes to Driver Backports
+# My Linux Kernel Mentorship Journey: From sysfs_emit Fixes, Driver Backports
 
 ## Introduction  
 
