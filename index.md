@@ -9,7 +9,7 @@ tags: [Linux Kernel, Mentorship, Open Source, Backporting, sysfs_emit, syzbot, C
 
 My expiernce with the Linux Kernel Bug Fixing [Summer 2025] Mentorship Program
 
-Summer 2025 - https://mentorship.lfx.linuxfoundation.org/project/8822c262-9795-4c84-a7c8-43346e2f5974
+[Summer 2025](https://mentorship.lfx.linuxfoundation.org/project/8822c262-9795-4c84-a7c8-43346e2f5974)
 
 Participating in the **Linux Kernel Mentorship Program** has been one of the most transformative experiences in my career. Over the past months, I had the privilege of working on upstream kernel contributions, collaborating with mentors, and learning from both fellow mentees and the broader kernel community.  
 
