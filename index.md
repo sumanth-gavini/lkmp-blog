@@ -4,7 +4,7 @@ date: 2025-09-10
 author: Sumanth Gavini
 ---
 
-# My Linux Kernel Mentorship Journey: From sysfs_emit Fixes, Driver Backports
+# My Linux Kernel Mentorship Journey:
 
 ## Introduction  
 
